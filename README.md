@@ -18,4 +18,4 @@ $ python manage.py runserver
 Point your browser at http://localhost:8000 and you should be greeted with
 the following:
 
-![Browser hello message](images/browser.png)
+![Browser hello message](images/hello_logging.png)
